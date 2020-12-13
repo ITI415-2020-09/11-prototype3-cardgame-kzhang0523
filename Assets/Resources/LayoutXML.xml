@@ -20,11 +20,10 @@
 	<slot id="3" x="-2" y="-3" faceup="0" layer="1" hiddenby="7" />
 	<slot id="4" x="1" y="-3" faceup="0" layer="1" hiddenby="8" />
 	<slot id="5" x="4" y="-3" faceup="0" layer="1" hiddenby="9" />
-
+	<slot id="6" x="7"  y="-3" faceup="0" layer="1" hiddenby="10" />
 	
 	
 	<!-- Layer2, the next level. -->
-	<slot id="6" x="7"  y="-3" faceup="0" layer="1" hiddenby="10" />
 	<slot id="7" x="-2"  y="-2.5" faceup="0" layer="2" hiddenby="12" />
 	<slot id="8" x="1"  y="-2.5" faceup="0" layer="2" hiddenby="13" />
 	<slot id="9"  x="4" y="-2.5" faceup="0" layer="2" hiddenby="14" />
